@@ -1,9 +1,14 @@
 # The PAN Manifesto for a Trustless Digital Cash for All Humanity
 Version 0.2
+
 Author: George Donnelly mailto:me@georgedonnelly.com @georgedonnelly
+
 License: Copyright 2018 George Donnelly
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 URL: http://pan.money/manifesto (check here for the latest version)
+
 Updates: Join this mailing list to get updates.
 
 ## Identity
@@ -23,8 +28,11 @@ trustless digital cash for humanity
 ## Contact
 
 mailto:me@georgedonnelly.com
+
 [https://github.com/PanMoney](https://github.com/PanMoney)
+
 [https://trello.com/panmoney](https://trello.com/panmoney)
+
 [https://twitter.com/PanMoney1](https://twitter.com/PanMoney1)
 
 ## Elevator Pitch
@@ -489,17 +497,29 @@ If you wish to register your donation so we know who our donors are (and can com
 We estimate that 20 BTC will be required to bring the project to the investment stage. George Donnelly is committing 1 BTC, therefore 19 BTC remain to be raised at this time.
 
 BTC: 
+
 BCH: 
+
 ETH: 
+
 LTC: 
+
 XMR: 
+
 DASH: 
+
 XRB: 
+
 STEEM: 
+
 ETC: 
+
 ADA: 
+
 IOTA: 
+
 XZC: 
+
 BAT: (or browse http://pan.money)
 
 If you have fiat assets you wish to donate, please convert them into crypto first. If this is impractical, please email me@georgedonnelly.com.
