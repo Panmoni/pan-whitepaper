@@ -1278,10 +1278,15 @@ We’re seeking thinkers, writers, translators, developers, co-founders, core te
 ## Metadata
 
 Version 0.4
+
 Author: George Donnelly me@georgedonnelly.com [@georgedonnelly](http://twitter.com/georgedonnelly)
+
 License: Copyright 2018 George Donnelly This work is licensed under a Creative Commons Attribution 4.0 International License. This means that you are encouraged to repost this document, in whole or in part, even for commercial purposes, but that you must include this complete license statement and you must indicate any changes you made.
+
 URL: [http://pan.money/manifesto](http://pan.money/manifesto) (check here for the latest version)
+
 Formats: [MD](http://pan.money/manifesto-md) [PDF](http://pan.money/manifesto-pdf) [ePub](http://pan.money/manifesto-epub) [MOBI](http://pan.money/manifesto-mobi)
+
 Updates: [Join this mailing list to get updates](http://pan.money/join/).
 
 ## Translations
