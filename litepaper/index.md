@@ -17,9 +17,9 @@
 	- [Conclusion](#conclusion)
 	- [What's Next](#what's-next)
 	- [Metadata](#metadata)
-	- [Translations](#translations)
-	- [Acknowledgments](#acknowledgments)
-	- [Contact](#contact)
+		- [Translations](#translations)
+		- [Acknowledgments](#acknowledgments)
+		- [Contact](#contact)
 
 ## Introduction
 
@@ -213,11 +213,9 @@ License: Copyright 2018 George Donnelly This work is licensed under a Creative C
 
 URL: [http://pan.money/manifesto](http://pan.money/manifesto) (check here for the latest version)
 
-Formats: [MD](http://pan.money/manifesto-md) [PDF](http://pan.money/manifesto-pdf) [ePub](http://pan.money/manifesto-epub) [MOBI](http://pan.money/manifesto-mobi)
-
 Updates: [Join this mailing list to get updates](http://pan.money/join/).
 
-## Translations
+### Translations
 
 We need your help with translations. To contribute your translation services, please email me@georgedonnelly.com.
 -   Spanish: translators sought.
@@ -235,11 +233,11 @@ We need your help with translations. To contribute your translation services, pl
 -   German: translators sought.
 -   more: translators sought
 
-## Acknowledgments
+### Acknowledgments
 
 Thanks to David Mondrus (of the [Trive](http://trive.news/) project) for his unflinching support, material assistance and endless encouragement. Thanks to Patrick Dugan of the Omni Foundation for his ideas on incentives. Thanks to Clark Donnelly for his ideas on reputation. Thanks to Stuart Geltner for his early encouragement. 
 
-## Contact
+### Contact
 -   me@georgedonnelly.com
 -   hi@pan.money
 -   [http://pan.money/join/](http://pan.money/join/) 
