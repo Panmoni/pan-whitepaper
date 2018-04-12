@@ -1029,11 +1029,13 @@ We envision a world with Pan cryptocurrency for all.
 ### Team
 
 George Donnelly is a small businessman, Unix/Linux systems administrator, web developer, copywriter, science fiction author, digital marketer, transnational libertarian activist, podcaster, EFL teacher, fluent Spanish speaker, 17-year resident of Latin America and University of Chicago graduate. He’s from Philadelphia and has also lived in Chicago, Osaka, Bogota and Medellín. He’s been an active cryptocurrency user, writer and podcaster since 2011, when he hosted one of the first conferences that in which Bitcoin presentations were given.
+
 [https://www.linkedin.com/in/georgedonnelly/](https://www.linkedin.com/in/georgedonnelly/)
 
 #### Advisors
 
 David Mondrus is a 20-year veteran of the New York City dotcom startup scene, with a focus on ecommerce and social networks. He was employee #5 at Bigfoot.com, CTO at Bigstar.com and CEO of OneModelPlace.com. David has founded and participated in a number of Bitcoin projects, including Bitnation, iNation, ND Coin, BTC2MYSQL and MiningSlicer. David is currently CEO of Trive, a cryptocurrency platform for determining the truth or falsehood of information, such as news.
+
 [https://www.linkedin.com/in/mongoosenewyork/](https://www.linkedin.com/in/mongoosenewyork/)
 
 
