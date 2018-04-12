@@ -1,6 +1,7 @@
 # The PAN Litepaper: Crypto for All Humanity
 
 ## Table of Contents
+
 - [The PAN Litepaper: Crypto for All Humanity](#the-pan-litepaper:-crypto-for-all-humanity)
 	- [Introduction](#introduction)
 	- [Vision](#vision)
@@ -16,38 +17,67 @@
 	- [What's Next](#what's-next)
 
 ## Introduction
+
 We live in a world of technological marvel and economic growth, where our basic human needs are taken care of so that we can realize our inherent and individual intellectual, artistic and social potential as human beings. But that vision is reality for only twenty percent of humanity.
+
 Eighty percent of the human population lives on less than $10 per day. About half of the global poor live on $2.50 per day and a little less than half of them live in extreme poverty, on just $1.25 per day. These people are starved for capital, their lives spent in a constant, precarious and primitive search for their next meal. As a result, the global poor do not receive adequate education, nutrition, clean water or healthcare. As many as 22,000 children die every day because of poverty.
+
 The global poor represent both a threat to the vision of global economic growth — because it’s not working for them — and its greatest potential engine. Humanity can not continue with only some of its number having access to prosperity. Either we must all have access to the promise of prosperity, or prosperity itself with stumble, falter and transmute into something else.
+
 Wealth perpetuates itself through interest and return on investment, growing ever greater over time. But the poor trade their bodies and time for inflationary government-manipulated fiat currency that declines in value over time. Any surplus wealth they create can not be effectively saved in fiat currency because governments are constantly inflating it away, some more than others.
+
 Thus we see, for example, the phenomenon of unfinished, un-lived-in houses in Kenya, where the best savings plan available is to buy concrete and build a new house. Or to have more and more children, a human savings plan that is smart for the individual parent but long-term only perpetuates the cycle of poverty and reduces quality of life for the many.
+
 Basic income experiments have shown that, when given extra capital, the global poor will use it to improve their lives, through investment and spending on necessities such as food and education.
+
 We believe that every human being can realize their innate potential. We believe that every human being can be not just a self-sustaining economic unit, but also one that adds value to every other human economic unit on the planet through the institution of the free market, without a central authority to manipulate it.
+
 We believe that what is lacking to realize this vision is capital, and not the expensive and dependency-forming government welfare that is the universal basic income.
+
 We believe that the current world is one where governments too frequently pick winners and losers, where government, a rent-seeking middleman itself, effectively cultivates other rent-seeking middlemen to prey on the poor and prosper to the disadvantage of the poor, especially in the areas of government, banking, insurance, dispute resolution, property registration and currency.
+
 We will create a blockchain-based global ledger system to replace the corrupted government-middleman order and the fragmented informal economy.
+
 We will stake every human being over the age of majority into this system with an initial coin distribution (ICD). Every human being will have an incentive to become a part of the network and to start transacting in it. Every human being immediately is included in this system and has a stake in it. Existence is your buy-in. Prior to the receipt of the airdrop, participants will have to complete a self-serve, video-based, mobile-first educational program in order to ensure they are prepared to use their new capital safely.
+
 Humans will be able to exchange coins instantaneously and for low fees using only a cellphone. There will be incentives for merchant adoption. 
+
 We have the vision. We will expand our vision by working with experts on poverty, economics, cryptocurrency, politics, economic development and more.
+
 We will get funding in a method to be determined and onboard tech, marketing and support teams. We will take the best tech currently available in the cryptocurrency space and marry it to a savvy marketing program in order to gain massive adoption: 1 billion verified humans within 5 years.
+
 We will perform initial testing of a proof of concept in the Latin American Spanish-speaking developing world, likely Mexico, Argentina or Colombia, simultaneously with the Philippines (in English). With proper funding, we can add a third testing region, the 540 million Hindi speakers of Northern India.
+
 Once we are near to having a working initial system, we will recruit and incentivize a network of community organizers using digital marketing who will catalyze the use of the currency in their local communities, simultaneously across the globe in a massively parallel process with the help of translators and community leaders. The process will decentralize and take shape under the direction of the community leaders with the founding team just providing support.
+
 We may add a smart contract layer to the blockchain with the intention of enabling humans to register assets so as to make them liquid (for mortgages) and tradeable. Our goal is to enable the poor to cut out rent-seeking middlemen from their lives, so they can have services like banking, insurance, dispute resolution, contract validation, social networking, currency exchange, governance, financial instruments, wills, medical records, and more without having to rely on rent-seeking middlemen.
+
 We will spark a global economic miracle like that of post-WWII Japan, Taiwan, South Korea or Singapore. We will become the tip of the adoption spear for the cryptocurrency ecosystem, bringing it to the largest marketplace ever: the global extralegal economy.
+
 We are starting a conversation around this topic with the intention of seeking investment to make the project happen.
+
 Much work remains to be done to clarify and implement the Pan vision. If you like our principles, plan and/or vision, then [join us](http://pan.money/join/). Together, we will create a borderless, trustless global digital cash system for all humanity. Together, we will solve poverty and bring equitable power to those who are today excluded from the global financial system.
 
 ## Vision
+
 We envision a world where the global extralegal economy, with its 5 billion participants, becomes the global blockchain economy and lets loose a torrent of economic growth that will materially resolve persistent problems like poverty, malnutrition, early death, sex trafficking, slavery and more.
+
 We envision a world in which individuals are in control of the product of their labor and can securely save and invest it to improve their lives, as they see fit, in a freed global marketplace without interference from rent-seeking middlemen such as governments and government-protected corporations.
+
 We envision a world in which every human being has an immediate financial stake in the economic system, and can immediately have in a liquid form their human capability and economic potential, so that they can add to the global culture.
+
 We envision a world in which every human being that reaches the age of majority, forever, begins their adult life with a birthright capital airdrop in the form of Pan coins. No longer must some humans scrape by in poverty forever because their parents were also poor. No longer must some humans predicate their education on the belief that they must find employment at the age of majority. They can guide their educational program towards the exploration of their passions, the realization of their innate talents, and upon the age of majority have the capital required to start a business, pursue advanced education or do whatever they like. Every child is now born with a trust fund. 
+
 We envision a world with 1 billion new Pan cryptocurrency users within 5 years of the launch of Pan, where these users actively participate in a wide range of cryptocurrency projects, where cryptocurrency adoption is no longer a subject for concern but a reality, where we are experiencing a doubling of developing world GDP within 10 years of the launch of Pan, and have effectively eradicated poverty within 25 years.
+
 We envision a world of fairness, transparency and property, where middlemen no longer block anyone’s path to the global economy, where all are included, by default, where humanity can flourish and reach for new heights in science, philosophy, economics, industry, music, health, education and much more.
+
 We envision a world in which the crypto economy is solving all the problems governments and other middlemen have not solved, and where the cryptocurrency ecosystem enjoys unprecedented respect as a result.
+
 We envision a world with Pan cryptocurrency for all.
 
 ## Execution Plan
+
 Pan’s goal is to bring 1 billion new people, mostly from among the global poor, into the cryptocurrency ecosystem within the first 5 years of its launch, using a trustless digital cash system whose design is based on market research in the developing world via a roughly equal starting stake for every participant, merchant adoption incentives, a self-serve business and cryptocurrency skills training program, localized viral marketing, a success-oriented social network and a staged rollout; and by doing so double the GDP growth rate across the developing world within 10 years and effectively eradicate poverty within 25 years. Once the digital cash system is working, we may also add smart contract functionality in order to facilitate asset registry and related features within the Pan system.
 
 Pan is building a prosperity network, with multiple network effects, a marketing strategy that leverages incentives and user attachment, significant protection from Sybil attacks, a Pan organization, and an evolving project roadmap. We’re opening doors for other worthy crypto projects by serving as a gateway coin and ensuring that global crypto currency regulation is more like the Japanese model and less like the BitLicense.
@@ -55,6 +85,7 @@ Pan is building a prosperity network, with multiple network effects, a marketing
 This is an early draft execution plan, it is not written in stone by any means and we are looking for co-founders, core team members, advisors and allies to help shape the Pan plan.
 
 ### Economics
+
 The economics of Pan revolve around the initial coin distribution (ICD). The ICD is the amount of Pan cryptocurrency that is airdropped to each human being who joins the Pan system. The ICD amount (number of Pan coins per ICD) declines over time. The total amount of coins emitted starts modestly, increases rapidly after 2020 and the growth curve peaks in the late 2030s.
 
 ![](Screenshot2018-03-0215.29.53.png)
@@ -107,6 +138,7 @@ Pan is engineered to distribute up to approximately 1 billion ICDs within the fi
 View the full Pan projections at [http://pan.money/PanProjections](http://pan.money/PanProjections). Feel free to make a copy of the file at that URL and change the assumptions or even start over from scratch to design a better Pan economic system. We not only welcome your input, we are seeking co-founders and advisors to give shape to the economics and all other aspects of Pan, as the above is just the initial, very broad strokes, and we would like to make coin emission contingent on claims as well as other productive user actions, perhaps via smart contract or some other mechanism to be determined.
 
 ### Product
+
 The Pan product is a prosperity network for the 80% of humanity that lives on less than $10 per day. Pan starts with an initial coin distribution (ICD), or airdrop of Pan cryptocurrency, that is the initial growth lever. It includes solutions for identity and convenient digital cash. Pan provides a self-serve Crypto University program where participants will learn about cryptocurrency usage and security, business skills, mindset and other skills necessary to achieve business success. 
 
 Pan is also an Instagram-like social network with the message “See me grow,” where Pan participants can inspire and be inspired by showing off their progress towards their business and wealth goals as they prosper by using not just the Pan system, but also the greater cryptocurrency ecosystem that they now have easy access to.
@@ -127,6 +159,7 @@ Pan is:
 The Pan product is how the cryptocurrency ecosystem both sparks an economic growth miracle among the 5 billion members of the global poor, and also how we grow cryptocurrency adoption to ensure that crypto flourishes, and does not stagnate.
 
 ## What Makes Pan Different
+
 We believe the following characteristics make the Pan project unique in the cryptocurrency space.
 -	Pan’s target market is the 5-billion-member global informal economy. No other project aims to airdrop crypto capital to every member of this excluded group, but they are the ones who most need it. The global poor are a highly entrepreneurial and proactive group, which makes them well-suited for the informal and extra-state nature of cryptocurrencies.
 -	Pan promises roughly equal initial staking for every human forever. Pan is for everyone, everywhere. It’s a new human birthright.
@@ -144,9 +177,11 @@ We believe the following characteristics make the Pan project unique in the cryp
 -	Pan aims to solve the adoption problem for the cryptocurrency space.
 -	Pan aims to be the last mile of the cryptocurrency world and, as such, when successful, will add a huge amount of value to the crypto ecosystem.
 -	Pan aims to alter the balance of power between governments and the crypto space in the latter’s favor in order to ensure that global cryptocurrency regulation is favorable, and not a limiting factor for the future of the space.
+
 Pan is crypto for all. It’s a new human birthright that aims to solve global poverty not through dependence-forming charity or burdensome credit but by bringing opportunities for growth, tools, training and psychological support to entrepreneurs. With a viral transmission component, merchant incentives and as much as 80% of the Pan coin supply reserved for airdrops, Pan aims to solve the cryptocurrency adoption challenge and definitively alter the balance of power between governments and the crypto economy — in our favor.
 
 ## Conclusion
+
 Pan will build a prosperity network to spread the use of cryptocurrency across the globe and spark an economic growth miracle for the 5 billion members of humanity who currently live on less than $10 per day, opening doors for other worthy crypto projects as a gateway coin and ensuring that global cryptocurrency regulation is more like the Japanese model and less like the BitLicense.
 
 [Join us.](http://pan.money/join/)
