@@ -1306,7 +1306,9 @@ We need your help with translations. To contribute your translation services, pl
 -   French: translators sought.
 -   German: translators sought.
 -   more: translators sought
-Acknowledgments
+
+## Acknowledgments
+
 Thanks to David Mondrus (of the [Trive](http://trive.news/) project) for his unflinching support, material assistance and endless encouragement. Thanks to Patrick Dugan of the Omni Foundation for his ideas on incentives. Thanks to Clark Donnelly for his ideas on reputation. Thanks to Stuart Geltner for his early encouragement. 
 
 ## Contact
