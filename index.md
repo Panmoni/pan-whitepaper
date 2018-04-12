@@ -2,85 +2,85 @@
 # Crypto for All Humanity: The PAN Manifesto
 
 # Table of Contents
-- Crypto for All Humanity: The PAN Manifesto
-	- Executive Summary
-	- Elevator Pitch
-- Manifesto
-	- Introduction
-	- We Believe...
-		- Ledgers are the Building Blocks
-		- It Starts with the Individual
-		- Poverty is Unacceptable
-		- Questions are Powerful
-		- The Global Poor are not so Poor
-		- Middlemen are Obsolete
-		- Blockchains Work
-		- Some Blockchain-Based Systems are Better than Others
-		- The Crypto Economy Must Grow
-		- The Best Goals are Absurd
-		- Generally Speaking
-	- We Intend...
-	- Why Pan Matters
-		- The World Needs Pan to…
-		- The Cryptocurrency Ecosystem Needs Pan to…
-		- What Makes Pan Different
-		- Pan vs. Other Anti-Poverty Projects
-			- Basic Income
-			- Microcredit
-			- Charity and Foreign Aid
-			- M-Pesa
-			- Direct Cash Transfers
-		- Pan vs Other Crypto Anti-Poverty Projects
-			- Humaniq
-			- Others
-		- Pan vs Other Crypto Property Registry Projects
-	- Call to Action
-- Execution Plan
-	- Summary
-	- Economics
-		- Initial Coin Distribution (ICD)
-		- Block Rewards
-		- Block Rewards Distribution Table
-		- Coin Emission Rate
-	- Product
-		- Identity and Reputation
-		- Initial Coin Distribution
-		- Digital Cash
-		- Business Skills & Mindset Education
-		- Social Network
-		- Property Registry
-	- Network Effects
-	- Marketing Strategy
-		- Target Audience
-		- Build User Attachment
-		- Use Cases
-		- Merchant Adoption
-	- Technology
-		- Protection from Sybil Attacks
-	- The Pan Organization
-		- Form
-		- Principles
-		- Values
-		- Vision
-		- Team
-			- Advisors
-	- Roadmap
-		- Market Research
-		- Initial Testing
-	- Key Considerations
-		- Key Challenges
-		- Key Risks
-		- Key Advantages
-		- Why a New Cryptocurrency is Required
-	- Execution Plan Conclusion
-	- What's Next
-		- Participate
-- Notes
-	- Relevant Quotes
-	- Metadata
-	- Translations
-	- Contact
-	- References
+- [Crypto for All Humanity: The PAN Manifesto](#crypto-for-all-humanity:-the-pan-manifesto)
+	- [Executive Summary](#executive-summary)
+	- [Elevator Pitch](#elevator-pitch)
+- [Manifesto](#manifesto)
+	- [Introduction](#introduction)
+	- [We Believe...](#we-believe...)
+		- [Ledgers are the Building Blocks](#ledgers-are-the-building-blocks)
+		- [It Starts with the Individual](#it-starts-with-the-individual)
+		- [Poverty is Unacceptable](#poverty-is-unacceptable)
+		- [Questions are Powerful](#questions-are-powerful)
+		- [The Global Poor are not so Poor](#the-global-poor-are-not-so-poor)
+		- [Middlemen are Obsolete](#middlemen-are-obsolete)
+		- [Blockchains Work](#blockchains-work)
+		- [Some Blockchain-Based Systems are Better than Others](#some-blockchain-based-systems-are-better-than-others)
+		- [The Crypto Economy Must Grow](#the-crypto-economy-must-grow)
+		- [The Best Goals are Absurd](#the-best-goals-are-absurd)
+		- [Generally Speaking](#generally-speaking)
+	- [We Intend...](#we-intend...)
+	- [Why Pan Matters](#why-pan-matters)
+		- [The World Needs Pan to…](#the-world-needs-pan-to…)
+		- [The Cryptocurrency Ecosystem Needs Pan to…](#the-cryptocurrency-ecosystem-needs-pan-to…)
+		- [What Makes Pan Different](#what-makes-pan-different)
+		- [Pan vs. Other Anti-Poverty Projects](#pan-vs.-other-anti-poverty-projects)
+			- [Basic Income](#basic-income)
+			- [Microcredit](#microcredit)
+			- [Charity and Foreign Aid](#charity-and-foreign-aid)
+			- [M-Pesa](#m-pesa)
+			- [Direct Cash Transfers](#direct-cash-transfers)
+		- [Pan vs Other Crypto Anti-Poverty Projects](#pan-vs-other-crypto-anti-poverty-projects)
+			- [Humaniq](#humaniq)
+			- [Others](#others)
+		- [Pan vs Other Crypto Property Registry Projects](#pan-vs-other-crypto-property-registry-projects)
+	- [Call to Action](#call-to-action)
+- [Execution Plan](#execution-plan)
+	- [Summary](#summary)
+	- [Economics](#economics)
+		- [Initial Coin Distribution (ICD)](#initial-coin-distribution-(icd))
+		- [Block Rewards](#block-rewards)
+		- [Block Rewards Distribution Table](#block-rewards-distribution-table)
+		- [Coin Emission Rate](#coin-emission-rate)
+	- [Product](#product)
+		- [Identity and Reputation](#identity-and-reputation)
+		- [Initial Coin Distribution](#initial-coin-distribution)
+		- [Digital Cash](#digital-cash)
+		- [Business Skills & Mindset Education](#business-skills-&-mindset-education)
+		- [Social Network](#social-network)
+		- [Property Registry](#property-registry)
+	- [Network Effects](#network-effects)
+	- [Marketing Strategy](#marketing-strategy)
+		- [Target Audience](#target-audience)
+		- [Build User Attachment](#build-user-attachment)
+		- [Use Cases](#use-cases)
+		- [Merchant Adoption](#merchant-adoption)
+	- [Technology](#technology)
+		- [Protection from Sybil Attacks](#protection-from-sybil-attacks)
+	- [The Pan Organization](#the-pan-organization)
+		- [Form](#form)
+		- [Principles](#principles)
+		- [Values](#values)
+		- [Vision](#vision)
+		- [Team](#team)
+			- [Advisors](#advisors)
+	- [Roadmap](#roadmap)
+		- [Market Research](#market-research)
+		- [Initial Testing](#initial-testing)
+	- [Key Considerations](#key-considerations)
+		- [Key Challenges](#key-challenges)
+		- [Key Risks](#key-risks)
+		- [Key Advantages](#key-advantages)
+		- [Why a New Cryptocurrency is Required](#why-a-new-cryptocurrency-is-required)
+	- [Execution Plan Conclusion](#execution-plan-conclusion)
+	- [What's Next](#what's-next)
+		- [Participate](#participate)
+- [Notes](#notes)
+	- [Relevant Quotes](#relevant-quotes)
+	- [Metadata](#metadata)
+	- [Translations](#translations)
+	- [Contact](#contact)
+	- [References](#references)
 
 ## Executive Summary
 
