@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [The PAN Litepaper: Crypto for All Humanity](#the-pan-litepaper:-crypto-for-all-humanity)
+	- [Table of Contents](#table-of-contents)
 	- [Introduction](#introduction)
 	- [Vision](#vision)
 	- [Execution Plan](#execution-plan)
@@ -15,6 +16,10 @@
 	- [What Makes Pan Different](#what-makes-pan-different)
 	- [Conclusion](#conclusion)
 	- [What's Next](#what's-next)
+	- [Metadata](#metadata)
+	- [Translations](#translations)
+	- [Acknowledgments](#acknowledgments)
+	- [Contact](#contact)
 
 ## Introduction
 
@@ -196,3 +201,51 @@ We’re seeking thinkers, writers, translators, developers, co-founders, core te
 * Talk about Pan at our [Discord server](https://discord.gg/knS2kJp) and our [Telegram group](http://t.me/PanMoney). We need your ideas.
 * Follow us on Twitter at [@PanMoney1](http://twitter.com/PanMoney1).
 * Email the author directly at me@georgedonnelly.com.
+
+
+## Metadata
+
+Version 0.4
+
+Author: George Donnelly me@georgedonnelly.com [@georgedonnelly](http://twitter.com/georgedonnelly)
+
+License: Copyright 2018 George Donnelly This work is licensed under a Creative Commons Attribution 4.0 International License. This means that you are encouraged to repost this document, in whole or in part, even for commercial purposes, but that you must include this complete license statement and you must indicate any changes you made.
+
+URL: [http://pan.money/manifesto](http://pan.money/manifesto) (check here for the latest version)
+
+Formats: [MD](http://pan.money/manifesto-md) [PDF](http://pan.money/manifesto-pdf) [ePub](http://pan.money/manifesto-epub) [MOBI](http://pan.money/manifesto-mobi)
+
+Updates: [Join this mailing list to get updates](http://pan.money/join/).
+
+## Translations
+
+We need your help with translations. To contribute your translation services, please email me@georgedonnelly.com.
+-   Spanish: translators sought.
+-   Hindi: translators sought.
+-   Portuguese: translators sought.
+-   Malay: translators sought.
+-   Chinese: translators sought.
+-   Bengali: translators sought.
+-   Punjabi: translators sought.
+-   Vietnamese: translators sought.
+-   Japanese: translators sought.
+-   Korean: translators sought.
+-   Arabic: translators sought.
+-   French: translators sought.
+-   German: translators sought.
+-   more: translators sought
+
+## Acknowledgments
+
+Thanks to David Mondrus (of the [Trive](http://trive.news/) project) for his unflinching support, material assistance and endless encouragement. Thanks to Patrick Dugan of the Omni Foundation for his ideas on incentives. Thanks to Clark Donnelly for his ideas on reputation. Thanks to Stuart Geltner for his early encouragement. 
+
+## Contact
+-   me@georgedonnelly.com
+-   hi@pan.money
+-   [http://pan.money/join/](http://pan.money/join/) 
+-   [https://discord.gg/knS2kJp](https://discord.gg/knS2kJp)
+-   [https://t.me/PanMoney](https://t.me/PanMoney)
+-   [https://github.com/PanMoney](https://github.com/PanMoney)
+-   [https://trello.com/panmoney](https://trello.com/panmoney)
+-   [https://twitter.com/PanMoney1](https://twitter.com/PanMoney1)
+-   [https://www.facebook.com/Pan-Money-1955366817812819/](https://www.facebook.com/Pan-Money-1955366817812819/)
